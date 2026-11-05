@@ -4,7 +4,7 @@ import { requireSession } from '@/lib/session';
 import { KONSULTANCI } from '@/lib/konsultanci';
 import { computeStatusDateFields, formatNote, prependNote } from '@/lib/patch-logic';
 
-const BASE_ID = 'app43poYrV01rzY0U';
+const BASE_ID = 'apphb7c8e4ZTKULIH';
 const TABLE_ID = 'tbl7zb6qUiafvezi8';
 const AIRTABLE_RECORD_URL = `https://api.airtable.com/v0/${BASE_ID}/${TABLE_ID}`;
 
